@@ -1,14 +1,14 @@
 <footer class="px-8 py-24 text-white bg-neutral">
 	<div class="container grid grid-cols-1 gap-4 mx-auto md:grid-cols-4">
 		<div class="mb-8 md:mb-0">
-			<h3 class="mb-4 text-lg font-bold">R Bhusal & Associates</h3>
-			<p class="mb-2">123 CA Street, Kathmandu, Nepal</p>
+			<h3 class="mb-4 text-lg font-bold">R. Bhusal & Associates</h3>
+			<p class="mb-2">Mahalaxmi 4, Imadol - Lalitpur</p>
 			<p class="mb-2">
-				<a href="tel:+9771234567890" class="hover:text-yellow-400">+977 123 456 7890</a>
+				<a href="tel:+9779861350009" class="hover:text-yellow-400">+977 9861350009</a>
 			</p>
 			<p>
-				<a href="mailto:info@rbhusalassociates.com" class="hover:text-yellow-400"
-					>info@rbhusalassociates.com</a
+				<a href="mailto:carabinbhusal@gmail.com" class="hover:text-yellow-400"
+					>info@rabinbhusal.com.np</a
 				>
 			</p>
 		</div>
@@ -45,7 +45,7 @@
 						>Instagram</a
 					>
 				</li>
-				<li><a href="mailto:info@rbhusalassociates.com" class="hover:text-yellow-400">Email</a></li>
+				<li><a href="mailto:info@rabinbhusal.com.np" class="hover:text-yellow-400">Email</a></li>
 			</ul>
 			<div class="mt-4 icons">
 				<a href="https://facebook.com/rbhusalassociates" class="mr-2"
@@ -54,11 +54,11 @@
 				<a href="https://instagram.com/rbhusalassociates" class="mr-2"
 					><i class="fab fa-instagram fa-2x"></i></a
 				>
-				<a href="mailto:info@rbhusalassociates.com"><i class="far fa-envelope fa-2x"></i></a>
+				<a href="mailto:info@rabinbhusal.com.np"><i class="far fa-envelope fa-2x"></i></a>
 			</div>
 		</div>
 	</div>
 	<p class="mt-8 text-center">
-		&copy; {new Date().getFullYear()} R Bhusal & Associates. All rights reserved.
+		&copy; {new Date().getFullYear()} R. Bhusal & Associates. All rights reserved.
 	</p>
 </footer>

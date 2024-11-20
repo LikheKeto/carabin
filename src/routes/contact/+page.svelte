@@ -54,8 +54,8 @@
 				Phone: <a href="tel:+9771234567890" class="hover:underline">+977 123 456 7890</a>
 			</p>
 			<p class="mb-4 text-lg">
-				Email: <a href="mailto:info@rbhusalassociates.com" class="hover:underline"
-					>info@rbhusalassociates.com</a
+				Email: <a href="mailto:info@rabinbhusal.com.np" class="hover:underline"
+					>info@rabinbhusal.com.np</a
 				>
 			</p>
 			<p class="mb-4 text-lg">Office Hours: Mon-Fri, 9:00 AM - 5:00 PM</p>

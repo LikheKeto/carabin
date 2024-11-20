@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.rabinbhusal.com.np/sitemap.xml

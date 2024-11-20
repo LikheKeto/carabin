@@ -20,7 +20,7 @@
 				class="flex items-center gap-2 p-4 tracking-tight text-white bg-neutral"
 			>
 				<Icon icon="solar:phone-bold" />
-				+977-98621350009
+				+977-9861350009
 			</a>
 		</div>
 	</nav>

@@ -5,6 +5,14 @@
 </script>
 
 <svelte:head>
+	<title>R. Bhusal & Associates - Accounting, Audit, and Advisory Services</title>
+	<meta
+		name="description"
+		content="R. Bhusal & Associates provides comprehensive accounting, audit, and advisory services in Nepal."
+	/>
+	<meta name="keywords" content="accounting, audit, advisory services, Nepal, CA firm" />
+	<meta name="author" content="R. Bhusal & Associates" />
+
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" />
 	<link

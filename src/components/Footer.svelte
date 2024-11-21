@@ -8,7 +8,7 @@
 			</p>
 			<p>
 				<a href="mailto:carabinbhusal@gmail.com" class="hover:text-yellow-400"
-					>info@rabinbhusal.com.np</a
+					>carabinbhusal@gmail.com</a
 				>
 			</p>
 		</div>
@@ -18,19 +18,17 @@
 				<li><a href="/about" class="hover:text-yellow-400">About Us</a></li>
 				<li><a href="/services" class="hover:text-yellow-400">Services</a></li>
 				<li><a href="/contact" class="hover:text-yellow-400">Contact Us</a></li>
-				<li><a href="/faqs" class="hover:text-yellow-400">FAQs</a></li>
 			</ul>
 		</div>
 		<div class="mb-8 md:mb-0">
 			<h3 class="mb-4 text-lg font-bold">Services</h3>
 			<ul>
-				<li><a href="/services/audit" class="hover:text-yellow-400">Audit and Assurance</a></li>
-				<li><a href="/services/taxation" class="hover:text-yellow-400">Taxation</a></li>
+				<li><a href="/services" class="hover:text-yellow-400">Audit and Assurance</a></li>
+				<li><a href="/services" class="hover:text-yellow-400">Taxation</a></li>
 				<li>
-					<a href="/services/accounting" class="hover:text-yellow-400">Accounting and Bookkeeping</a
-					>
+					<a href="/services" class="hover:text-yellow-400">Accounting and Bookkeeping</a>
 				</li>
-				<li><a href="/services/advisory" class="hover:text-yellow-400">Business Advisory</a></li>
+				<li><a href="/services" class="hover:text-yellow-400">Business Advisory</a></li>
 			</ul>
 		</div>
 		<div>
@@ -45,7 +43,7 @@
 						>Instagram</a
 					>
 				</li>
-				<li><a href="mailto:info@rabinbhusal.com.np" class="hover:text-yellow-400">Email</a></li>
+				<li><a href="mailto:carabinbhusal@gmail.com" class="hover:text-yellow-400">Email</a></li>
 			</ul>
 			<div class="mt-4 icons">
 				<a href="https://facebook.com/rbhusalassociates" class="mr-2"

@@ -1,5 +1,5 @@
-<div class="container mx-auto my-16 sm:my-32">
-	<h2 class="mb-12 text-4xl font-bold tracking-tight text-center">Services</h2>
+<div class="container p-4 mx-auto my-16 md:p-0 sm:my-32">
+	<h2 class="mb-12 text-4xl font-bold tracking-tight text-center">Our Services</h2>
 	<div class="grid gap-10 md:grid-cols-3">
 		<!-- Audit and Assurance -->
 		<div class="flex flex-col items-start gap-4">
@@ -22,7 +22,8 @@
 			<div>
 				<h3 class="text-xl font-semibold">Audit and Assurance</h3>
 				<p class="mt-1 text-gray-500">
-					Comprehensive audit services to ensure compliance and accuracy.
+					Ensure compliance and transparency with our comprehensive audit and assurance services,
+					trusted by top businesses across Nepal.
 				</p>
 			</div>
 		</div>
@@ -48,7 +49,10 @@
 			</span>
 			<div>
 				<h3 class="text-xl font-semibold">Taxation</h3>
-				<p class="mt-1 text-gray-500">Expert tax planning and compliance services.</p>
+				<p class="mt-1 text-gray-500">
+					Optimize your tax planning and compliance with our expert taxation services designed for
+					both individuals and enterprises.
+				</p>
 			</div>
 		</div>
 
@@ -73,7 +77,8 @@
 			<div>
 				<h3 class="text-xl font-semibold">Accounting and Bookkeeping</h3>
 				<p class="mt-1 text-gray-500">
-					Accurate and timely accounting services to keep your finances in order.
+					Streamline your financial records with our accurate and efficient accounting and
+					bookkeeping solutions.
 				</p>
 			</div>
 		</div>
@@ -98,7 +103,10 @@
 			</span>
 			<div>
 				<h3 class="text-xl font-semibold">Business Advisory</h3>
-				<p class="mt-1 text-gray-500">Strategic advice to help your business grow and succeed.</p>
+				<p class="mt-1 text-gray-500">
+					Gain strategic insights to grow and scale your business with our tailored advisory
+					services.
+				</p>
 			</div>
 		</div>
 
@@ -123,7 +131,7 @@
 			<div>
 				<h3 class="text-xl font-semibold">Financial Planning</h3>
 				<p class="mt-1 text-gray-500">
-					Personalized financial planning to achieve your financial goals.
+					Plan your finances effectively with customized solutions that align with your goals.
 				</p>
 			</div>
 		</div>
@@ -148,7 +156,10 @@
 			</span>
 			<div>
 				<h3 class="text-xl font-semibold">Company Formation Services</h3>
-				<p class="mt-1 text-gray-500">Expert guidance in setting up and managing your business.</p>
+				<p class="mt-1 text-gray-500">
+					Start your business hassle-free with our expert company formation and registration
+					services.
+				</p>
 			</div>
 		</div>
 	</div>

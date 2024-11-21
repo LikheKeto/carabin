@@ -11,10 +11,11 @@
 		class="absolute bottom-0 left-0 z-10 max-w-xl p-8 m-2 bg-opacity-50 shadow-lg md:m-8 lg:m-16 bg-primary"
 	>
 		<h1 class="mb-4 text-4xl font-bold tracking-tight text-white">
-			Expertise in Accounting, Audit, and Advisory Services
+			R. Bhusal & Associates - Your Trusted CA Firm in Nepal
 		</h1>
 		<p class="mb-8 text-lg tracking-tight text-white">
-			We provide comprehensive solutions tailored to your needs.
+			Delivering expert solutions in accounting, auditing, taxation, and financial planning to
+			businesses and individuals across Nepal.
 		</p>
 		<a
 			href="/contact"

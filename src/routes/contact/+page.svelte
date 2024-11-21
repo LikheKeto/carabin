@@ -1,7 +1,10 @@
+<svelte:head>
+	<title>Contact | R. Bhusal & Associates - Leading Chartered Accountancy Firm in Nepal</title>
+</svelte:head>
 <div class="container py-12 mx-auto">
 	<h1 class="mb-8 text-4xl font-bold">Contact Us</h1>
 	<div class="grid grid-cols-1 gap-8 md:grid-cols-2">
-		<div class="p-6 rounded-lg shadow-lg bg-base">
+		<div class="p-6 bg-primary">
 			<h2 class="mb-4 text-2xl font-bold">Get in Touch</h2>
 			<form>
 				<div class="mb-4">
@@ -40,18 +43,14 @@
 						class="w-full p-2 border rounded border-neutral"
 					></textarea>
 				</div>
-				<button
-					type="submit"
-					class="px-6 py-3 font-bold rounded-full bg-secondary text-primary hover:bg-accent"
-					>Send Message</button
-				>
+				<button type="submit" class="px-6 py-3 font-bold hover:bg-accent">Send Message</button>
 			</form>
 		</div>
-		<div class="p-6 rounded-lg shadow-lg bg-base">
+		<div class="p-6 bg-primary">
 			<h2 class="mb-4 text-2xl font-bold">Visit Us</h2>
-			<p class="mb-4 text-lg">123 CA Street, Kathmandu, Nepal</p>
+			<p class="mb-4 text-lg">Mahalaxmi 4, Imadol - Lalitpur, Nepal</p>
 			<p class="mb-4 text-lg">
-				Phone: <a href="tel:+9771234567890" class="hover:underline">+977 123 456 7890</a>
+				Phone: <a href="tel:+9779861350009" class="hover:underline">+977 9861350009</a>
 			</p>
 			<p class="mb-4 text-lg">
 				Email: <a href="mailto:info@rabinbhusal.com.np" class="hover:underline"
@@ -61,14 +60,18 @@
 			<p class="mb-4 text-lg">Office Hours: Mon-Fri, 9:00 AM - 5:00 PM</p>
 			<div class="mt-4">
 				<!-- Google Maps Integration -->
-				<iframe
-					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.232443445319!2d85.32067831506174!3d27.70895598279304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1903d0124c9f%3A0x86a53834910e0204!2sKathmandu%2044600%2C%20Nepal!5e0!3m2!1sen!2sus!4v1634567890123!5m2!1sen!2sus"
-					width="100%"
-					height="200"
-					style="border:0;"
-					allowfullscreen=""
-					loading="lazy"
-				></iframe>
+				<div style="width: 100%">
+					<iframe
+						width="100%"
+						height="600"
+						frameborder="0"
+						scrolling="no"
+						marginheight="0"
+						marginwidth="0"
+						src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Mahalaxmi%204,%20Imadol+(R.%20Bhusal%20&amp;%20Associates)&amp;t=&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+						><a href="https://www.gps.ie/">gps devices</a></iframe
+					>
+				</div>
 			</div>
 		</div>
 	</div>

@@ -1,7 +1,7 @@
 <section id="testimonials" aria-label="What our customers are saying" class="py-16 sm:py-32">
 	<div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
 		<div class="max-w-2xl mx-auto md:text-center">
-			<h2 class="mb-12 text-4xl font-bold tracking-tight sm:text-4xl">Testimonials</h2>
+			<h2 class="mb-12 text-4xl font-bold tracking-tight sm:text-4xl">What Our Clients Say</h2>
 		</div>
 		<ul
 			role="list"
@@ -10,7 +10,7 @@
 			<li>
 				<ul role="list" class="flex flex-col gap-y-6 sm:gap-y-8">
 					<li>
-						<figure class="relative p-6 shadow-xl bg-primary rounded-2xl shadow-slate-900/10">
+						<figure class="relative p-6 shadow-xl bg-primary shadow-slate-900/10">
 							<svg
 								aria-hidden="true"
 								width="105"
@@ -24,15 +24,16 @@
 							</svg>
 							<blockquote class="relative">
 								<p class="text-base text-lg tracking-tight">
-									I love the fitness apparel and gear I purchased from this site. The quality is
-									exceptional and the prices are unbeatable.
+									R. Bhusal & Associates has been a lifesaver for our business. Rabin Bhusal and his
+									team provided us with accurate financial advice that helped us streamline our
+									operations and improve our bottom line.
 								</p>
 							</blockquote>
 							<figcaption
 								class="relative flex items-center justify-between pt-6 mt-6 border-t border-accent"
 							>
 								<div>
-									<div class="text-base font-display">Sheryl Berge</div>
+									<div class="text-base font-display">Ram Thapa</div>
 								</div>
 								<div class="overflow-hidden rounded-full">
 									<img
@@ -50,7 +51,7 @@
 			<li>
 				<ul role="list" class="flex flex-col gap-y-6 sm:gap-y-8">
 					<li>
-						<figure class="relative p-6 shadow-xl bg-primary rounded-2xl shadow-slate-900/10">
+						<figure class="relative p-6 shadow-xl bg-primary shadow-slate-900/10">
 							<svg
 								aria-hidden="true"
 								width="105"
@@ -64,15 +65,16 @@
 							</svg>
 							<blockquote class="relative">
 								<p class="text-base text-lg tracking-tight">
-									As a professional athlete, I rely on high-performance gear for my training. This
-									site offers a great selection of top-notch products.
+									Working with R. Bhusal & Associates was a seamless experience. Rabin Bhusal's deep
+									understanding of tax laws and financial management helped us navigate complex
+									issues with ease. We are extremely satisfied with their services.
 								</p>
 							</blockquote>
 							<figcaption
 								class="relative flex items-center justify-between pt-6 mt-6 border-t border-accent"
 							>
 								<div>
-									<div class="text-base font-display">Leland Kiehn</div>
+									<div class="text-base font-display">Anita Shrestha</div>
 								</div>
 								<div class="overflow-hidden rounded-full">
 									<img
@@ -90,7 +92,7 @@
 			<li>
 				<ul role="list" class="flex flex-col gap-y-6 sm:gap-y-8">
 					<li>
-						<figure class="relative p-6 shadow-xl bg-primary rounded-2xl shadow-slate-900/10">
+						<figure class="relative p-6 shadow-xl bg-primary shadow-slate-900/10">
 							<svg
 								aria-hidden="true"
 								width="105"
@@ -104,15 +106,16 @@
 							</svg>
 							<blockquote class="relative">
 								<p class="text-base text-lg tracking-tight">
-									The fitness apparel I bought here fits perfectly and feels amazing. I highly
-									recommend this store to.
+									R. Bhusal & Associates delivered exceptional financial services. Rabin Bhusal and
+									his team are not only highly skilled but also very responsive. Their
+									professionalism and dedication are truly remarkable.
 								</p>
 							</blockquote>
 							<figcaption
 								class="relative flex items-center justify-between pt-6 mt-6 border-t border-accent"
 							>
 								<div>
-									<div class="text-base font-display">Peter Renolds</div>
+									<div class="text-base font-display">Ramesh Gurung</div>
 								</div>
 								<div class="overflow-hidden rounded-full">
 									<img

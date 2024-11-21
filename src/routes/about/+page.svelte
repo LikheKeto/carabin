@@ -1,31 +1,135 @@
-<div class="container py-12 mx-auto">
-	<h1 class="mb-8 text-4xl font-bold">About Us</h1>
-	<p class="mb-8 text-lg">
-		R. Bhusal & Associates is a leading CA firm in Nepal, providing comprehensive accounting, audit,
-		and advisory services since [Year]. Our vision is to be the trusted partner for all your
-		financial needs.
+<script>
+	import RabinPortrait from '$lib/assets/WhatsApp Image 2024-11-19 at 9.37.28 PM.jpeg';
+</script>
+
+<svelte:head>
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Person",
+			"name": "Rabin Bhusal",
+			"jobTitle": "Founder & CEO",
+			"worksFor": {
+				"@type": "Organization",
+				"name": "R. Bhusal & Associates"
+			},
+			"url": "https://www.rabinbhusal.com.np",
+			"sameAs": [
+				"https://www.linkedin.com/in/rabin-bhusal-329b07201",
+				"https://www.facebook.com/Robbinns.bhusal/"
+			],
+			"image": "https://www.rabinbhusal.com.np/rabinbhusal.jpeg",
+			"description": "Rabin Bhusal is a Chartered Accountant and the founder of R. Bhusal & Associates, a leading CA firm in Nepal."
+		}
+	</script>
+	<title>About Us | R. Bhusal & Associates - Leading Chartered Accountant Firm in Nepal</title>
+	<meta
+		name="description"
+		content="Learn about R. Bhusal & Associates, a leading Chartered Accountancy firm in Nepal, offering services in accounting, audit, tax preparation, and financial advisory."
+	/>
+	<meta
+		name="keywords"
+		content="CA firm Nepal, accounting Nepal, tax preparation Nepal, R. Bhusal, Rabin Bhusal, audit services, financial advisory Nepal"
+	/>
+	<meta name="author" content="R. Bhusal & Associates" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<!-- Open Graph meta tags for better social media integration -->
+	<meta property="og:title" content="About Us | R. Bhusal & Associates" />
+	<meta
+		property="og:description"
+		content="R. Bhusal & Associates is a leading Chartered Accountancy firm in Nepal, offering a range of professional services with integrity and professionalism."
+	/>
+	<meta property="og:image" content="https://example.com/path-to-image.jpg" />
+	<meta property="og:url" content="https://example.com/about" />
+	<meta property="og:type" content="website" />
+
+	<!-- Twitter Card meta tags -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="About Us | R. Bhusal & Associates" />
+	<meta
+		name="twitter:description"
+		content="R. Bhusal & Associates is a leading CA firm in Nepal providing accounting, audit, and financial advisory services."
+	/>
+	<meta name="twitter:image" content="https://example.com/path-to-image.jpg" />
+</svelte:head>
+
+<div class="container p-4 py-12 mx-auto my-16 sm:p-0">
+	<h1 class="mb-8 text-4xl font-bold leading-tight text-center">About Us</h1>
+	<p class="mb-8 text-lg text-justify">
+		R. Bhusal & Associates is a leading Chartered Accountancy firm in Nepal, specializing in
+		accounting, auditing, tax preparation, and financial advisory services. Founded by Rabin Bhusal,
+		a seasoned Chartered Accountant with extensive experience, the firm is dedicated to helping
+		businesses navigate complex financial landscapes with precision and care.
 	</p>
-	<h2 class="mb-4 text-3xl font-bold">Our Leadership</h2>
-	<div class="grid grid-cols-1 gap-8 md:grid-cols-2">
-		<div class="p-6 rounded-lg shadow-lg bg-base">
-			<img src="/path/to/image.jpg" alt="R. Bhusal" class="w-32 h-32 mx-auto mb-4 rounded-full" />
-			<h3 class="text-xl font-bold">R. Bhusal</h3>
-			<p class="text-sm">Founder & CEO</p>
-			<p class="mt-4">
-				With over 20 years of experience, R. Bhusal leads the firm with a vision of excellence and
-				integrity.
-			</p>
+
+	<section>
+		<h2 class="mb-4 text-3xl font-bold leading-tight text-center">Our Founder</h2>
+		<div class="flex flex-col items-center justify-center gap-8 md:flex-row">
+			<div class="max-w-lg">
+				<img src={RabinPortrait} alt="Portrait of Rabin Bhusal, Founder & CEO" />
+			</div>
+			<div class="text-center md:text-left">
+				<h3 class="text-2xl font-bold">Rabin Bhusal</h3>
+				<p class="text-sm font-medium">Founder & CEO, Chartered Accountant</p>
+				<p class="mt-4 text-lg text-justify">
+					Rabin Bhusal is a highly skilled Chartered Accountant with over a decade of experience in
+					the finance and accounting sector. Currently serving as the Finance Manager at Anver
+					International Pvt. Ltd., he has a proven track record in year-end accounting, tax
+					preparation, and financial advisory.
+				</p>
+				<p class="mt-4 text-lg text-justify">
+					Rabin completed his Chartered Accountancy from the prestigious Institute of Chartered
+					Accountants of Nepal (ICAN) in 2014 and holds a Bachelor's degree in Business/Commerce
+					from Swayambhu International College. His expertise includes International Financial
+					Reporting Standards (IFRS), Value-Added Tax (VAT), and advanced accounting practices.
+				</p>
+			</div>
 		</div>
-		<!-- Add more team members here -->
-	</div>
-	<h2 class="mt-8 mb-4 text-3xl font-bold">Our Mission and Values</h2>
-	<p class="mb-8 text-lg">
-		We are committed to providing high-quality services with integrity, professionalism, and a
-		client-centric approach.
-	</p>
-	<h2 class="mt-8 mb-4 text-3xl font-bold">Why Choose Us?</h2>
-	<p class="mb-8 text-lg">
-		Our expertise, trust, and proven results make us the preferred choice for all your financial
-		needs.
-	</p>
+	</section>
+
+	<section class="mt-12">
+		<h2 class="mb-4 text-3xl font-bold leading-tight text-center">Our Mission</h2>
+		<p class="mb-8 text-lg text-justify">
+			At R. Bhusal & Associates, our mission is to empower businesses and individuals by providing
+			high-quality financial solutions that ensure compliance, optimize performance, and foster
+			growth. Integrity and professionalism are at the heart of everything we do.
+		</p>
+	</section>
+
+	<section>
+		<h2 class="mt-8 mb-4 text-3xl font-bold leading-tight text-center">Core Expertise</h2>
+		<ul class="space-y-4 text-lg text-justify list-disc list-inside">
+			<li>Year-End Accounting</li>
+			<li>Tax Preparation & Advisory</li>
+			<li>Financial Auditing</li>
+			<li>Compliance with International Financial Reporting Standards (IFRS)</li>
+			<li>Value-Added Tax (VAT) and Corporate Tax Solutions</li>
+			<li>Business Consulting and Financial Strategy</li>
+		</ul>
+	</section>
+
+	<section class="mt-12">
+		<h2 class="mb-4 text-3xl font-bold leading-tight text-center">Our Team</h2>
+		<div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
+			<article class="p-6 bg-primary">
+				<img
+					src={RabinPortrait}
+					alt="Portrait of Rabin Bhusal, Founder & CEO"
+					class="mx-auto mb-4 max-w-40"
+				/>
+				<h3 class="text-xl font-bold text-center">Rabin Bhusal</h3>
+				<p class="text-sm text-center">Founder & CEO</p>
+				<p class="mt-4 text-justify">
+					With expertise spanning over 10 years in finance and accounting, Rabin's vision is to
+					transform the financial practices of businesses across Nepal.
+				</p>
+			</article>
+			<!-- Add more team members here -->
+		</div>
+	</section>
 </div>
+
+<style>
+	/* Add custom styles here if needed */
+</style>

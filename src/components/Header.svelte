@@ -11,6 +11,7 @@
 		<ul class="flex flex-wrap space-x-4 md:space-x-8 lg:space-x-16">
 			<li><a href="/" class="hover:underline">Home</a></li>
 			<li><a href="/about" class="hover:underline">About Us</a></li>
+			<li><a href="/team" class="hover:underline">Our Team</a></li>
 			<li><a href="/services" class="hover:underline">Services</a></li>
 			<li><a href="/contact" class="hover:underline">Contact</a></li>
 		</ul>

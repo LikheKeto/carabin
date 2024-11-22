@@ -35,14 +35,6 @@
 								<div>
 									<div class="text-base font-display">Ram Thapa</div>
 								</div>
-								<div class="overflow-hidden rounded-full">
-									<img
-										alt=""
-										class="object-cover h-14 w-14"
-										style="color:transparent"
-										src="https://randomuser.me/api/portraits/men/15.jpg"
-									/>
-								</div>
 							</figcaption>
 						</figure>
 					</li>
@@ -76,14 +68,6 @@
 								<div>
 									<div class="text-base font-display">Anita Shrestha</div>
 								</div>
-								<div class="overflow-hidden rounded-full">
-									<img
-										alt=""
-										class="object-cover h-14 w-14"
-										style="color:transparent"
-										src="https://randomuser.me/api/portraits/women/15.jpg"
-									/>
-								</div>
 							</figcaption>
 						</figure>
 					</li>
@@ -116,14 +100,6 @@
 							>
 								<div>
 									<div class="text-base font-display">Ramesh Gurung</div>
-								</div>
-								<div class="overflow-hidden rounded-full">
-									<img
-										alt=""
-										class="object-cover h-14 w-14"
-										style="color:transparent"
-										src="https://randomuser.me/api/portraits/men/10.jpg"
-									/>
 								</div>
 							</figcaption>
 						</figure>

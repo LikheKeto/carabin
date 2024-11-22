@@ -8,7 +8,7 @@
 	<script type="application/ld+json">
 		{
 			"@context": "https://schema.org",
-			"@type": "AccountingService",
+			"@type": ["AccountingService", "AuditService"],
 			"name": "R. Bhusal & Associates",
 			"description": "R. Bhusal & Associates is a premier Chartered Accountancy (CA) firm in Nepal specializing in accounting, auditing, taxation, and advisory services.",
 			"address": {

@@ -1,5 +1,5 @@
 <script>
-	import RabinPortrait from '$lib/assets/WhatsApp Image 2024-11-19 at 9.37.28 PM.jpeg';
+	import RabinSpeaking from '$lib/assets/WhatsApp Image 2024-11-19 at 9.37.28 PM.jpeg';
 </script>
 
 <svelte:head>
@@ -67,22 +67,22 @@
 		<h2 class="mb-4 text-3xl font-bold leading-tight text-center">Our Founder</h2>
 		<div class="flex flex-col items-center justify-center gap-8 md:flex-row">
 			<div class="max-w-lg">
-				<img src={RabinPortrait} alt="Portrait of Rabin Bhusal, Founder & CEO" />
+				<img src={RabinSpeaking} alt="Portrait of Rabin Bhusal, Founder & CEO" />
 			</div>
 			<div class="text-center md:text-left">
-				<h3 class="text-2xl font-bold">Rabin Bhusal</h3>
+				<h3 class="text-2xl font-bold">C.A. Rabin Bhusal</h3>
 				<p class="text-sm font-medium">Founder & CEO, Chartered Accountant</p>
 				<p class="mt-4 text-lg text-justify">
-					Rabin Bhusal is a highly skilled Chartered Accountant with over a decade of experience in
-					the finance and accounting sector. Currently serving as the Finance Manager at Anver
+					Rabin Bhusal is a highly skilled Chartered Accountant with over four years of experience
+					in the finance and accounting sector. Currently serving as the Finance Manager at Anver
 					International Pvt. Ltd., he has a proven track record in year-end accounting, tax
 					preparation, and financial advisory.
 				</p>
 				<p class="mt-4 text-lg text-justify">
 					Rabin completed his Chartered Accountancy from the prestigious Institute of Chartered
-					Accountants of Nepal (ICAN) in 2014 and holds a Bachelor's degree in Business/Commerce
-					from Swayambhu International College. His expertise includes International Financial
-					Reporting Standards (IFRS), Value-Added Tax (VAT), and advanced accounting practices.
+					Accountants of Nepal (ICAN) and holds a Bachelor's degree in Business Studies (BBS) from
+					Swayambhu International College. His expertise includes International Financial Reporting
+					Standards (IFRS), Value-Added Tax (VAT), and advanced accounting practices.
 				</p>
 			</div>
 		</div>
@@ -107,26 +107,6 @@
 			<li>Value-Added Tax (VAT) and Corporate Tax Solutions</li>
 			<li>Business Consulting and Financial Strategy</li>
 		</ul>
-	</section>
-
-	<section class="mt-12">
-		<h2 class="mb-4 text-3xl font-bold leading-tight text-center">Our Team</h2>
-		<div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
-			<article class="p-6 bg-primary">
-				<img
-					src={RabinPortrait}
-					alt="Portrait of Rabin Bhusal, Founder & CEO"
-					class="mx-auto mb-4 max-w-40"
-				/>
-				<h3 class="text-xl font-bold text-center">Rabin Bhusal</h3>
-				<p class="text-sm text-center">Founder & CEO</p>
-				<p class="mt-4 text-justify">
-					With expertise spanning over 10 years in finance and accounting, Rabin's vision is to
-					transform the financial practices of businesses across Nepal.
-				</p>
-			</article>
-			<!-- Add more team members here -->
-		</div>
 	</section>
 </div>
 

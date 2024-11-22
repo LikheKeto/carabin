@@ -16,6 +16,7 @@
 			<h3 class="mb-4 text-lg font-bold">Quick Links</h3>
 			<ul>
 				<li><a href="/about" class="hover:text-yellow-400">About Us</a></li>
+				<li><a href="/team" class="hover:text-yellow-400">Our Team</a></li>
 				<li><a href="/services" class="hover:text-yellow-400">Services</a></li>
 				<li><a href="/contact" class="hover:text-yellow-400">Contact Us</a></li>
 			</ul>

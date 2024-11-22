@@ -6,7 +6,7 @@
 	<div class="grid grid-cols-1 gap-8 md:grid-cols-2">
 		<div class="p-6 bg-primary">
 			<h2 class="mb-4 text-2xl font-bold">Get in Touch</h2>
-			<form>
+			<form action="https://formspree.io/f/movqlbok" method="POST">
 				<div class="mb-4">
 					<label for="name" class="block mb-2 text-lg font-bold">Name</label>
 					<input
@@ -43,7 +43,9 @@
 						class="w-full p-2 border rounded border-neutral"
 					></textarea>
 				</div>
-				<button type="submit" class="px-6 py-3 font-bold hover:bg-accent">Send Message</button>
+				<button type="submit" class="px-6 py-3 font-bold bg-accent text-primary hover:bg-neutral"
+					>Send Message</button
+				>
 			</form>
 		</div>
 		<div class="p-6 bg-primary">

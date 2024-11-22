@@ -10,7 +10,10 @@
 		name="description"
 		content="R. Bhusal & Associates provides comprehensive accounting, audit, and advisory services in Nepal."
 	/>
-	<meta name="keywords" content="accounting, audit, advisory services, Nepal, CA firm" />
+	<meta
+		name="keywords"
+		content="accounting, audit, advisory services, Nepal, CA firm, CA in Nepal, CA nepal, Rabin Bhusal"
+	/>
 	<meta name="author" content="R. Bhusal & Associates" />
 
 	<link rel="preconnect" href="https://fonts.googleapis.com" />

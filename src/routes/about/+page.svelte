@@ -32,26 +32,6 @@
 		content="CA firm Nepal, accounting Nepal, tax preparation Nepal, R. Bhusal, Rabin Bhusal, audit services, financial advisory Nepal"
 	/>
 	<meta name="author" content="R. Bhusal & Associates" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-	<!-- Open Graph meta tags for better social media integration -->
-	<meta property="og:title" content="About Us | R. Bhusal & Associates" />
-	<meta
-		property="og:description"
-		content="R. Bhusal & Associates is a leading Chartered Accountancy firm in Nepal, offering a range of professional services with integrity and professionalism."
-	/>
-	<meta property="og:image" content="https://example.com/path-to-image.jpg" />
-	<meta property="og:url" content="https://example.com/about" />
-	<meta property="og:type" content="website" />
-
-	<!-- Twitter Card meta tags -->
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="About Us | R. Bhusal & Associates" />
-	<meta
-		name="twitter:description"
-		content="R. Bhusal & Associates is a leading CA firm in Nepal providing accounting, audit, and financial advisory services."
-	/>
-	<meta name="twitter:image" content="https://example.com/path-to-image.jpg" />
 </svelte:head>
 
 <div class="container p-4 py-12 mx-auto my-16 sm:p-0">

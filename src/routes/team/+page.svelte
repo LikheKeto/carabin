@@ -5,6 +5,11 @@
 	import SushantImage from '$lib/assets/sushant.jpg';
 </script>
 
+<svelte:head>
+	<title>Our Team | R. Bhusal & Associates - Leading Chartered Accountant Firm in Nepal</title>
+	<meta name="description" content="Meet the professional team of R. Bhusal & Associates." />
+</svelte:head>
+
 <div class="container p-4 py-12 mx-auto my-16 sm:p-0">
 	<section>
 		<h1 class="mb-8 text-4xl font-bold leading-tight text-center">Our Team</h1>
@@ -64,8 +69,6 @@
 					accuracy, and streamline client services.
 				</p>
 			</article>
-
-			<!-- Add more team members here -->
 		</div>
 	</section>
 </div>

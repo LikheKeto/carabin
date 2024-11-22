@@ -55,8 +55,8 @@
 				Phone: <a href="tel:+9779861350009" class="hover:underline">+977 9861350009</a>
 			</p>
 			<p class="mb-4 text-lg">
-				Email: <a href="mailto:info@rabinbhusal.com.np" class="hover:underline"
-					>info@rabinbhusal.com.np</a
+				Email: <a href="mailto:carabinbhusal@gmail.com" class="hover:underline"
+					>carabinbhusal@gmail.com</a
 				>
 			</p>
 			<p class="mb-4 text-lg">Office Hours: Mon-Fri, 9:00 AM - 5:00 PM</p>

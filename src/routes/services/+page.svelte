@@ -11,7 +11,6 @@
 	<meta name="author" content="R. Bhusal & Associates" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<!-- Open Graph meta tags -->
 	<meta property="og:title" content="Our Services | R. Bhusal & Associates" />
 	<meta
 		property="og:description"
@@ -21,7 +20,6 @@
 	<meta property="og:url" content="https://rabinbhusal.com.np/services" />
 	<meta property="og:type" content="website" />
 
-	<!-- Twitter Card meta tags -->
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Our Services | R. Bhusal & Associates" />
 	<meta
@@ -30,7 +28,6 @@
 	/>
 	<meta name="twitter:image" content="https://rabinbhusal.com.np/logo.png" />
 
-	<!-- Favicon -->
 	<link rel="icon" href="/logo.png" />
 </svelte:head>
 

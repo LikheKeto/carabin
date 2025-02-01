@@ -8,7 +8,7 @@
 			"@context": "https://schema.org",
 			"@type": "Person",
 			"name": "Rabin Bhusal",
-			"jobTitle": "Founder & CEO",
+			"jobTitle": "Founder &  Proprietor",
 			"worksFor": {
 				"@type": "Organization",
 				"name": "R. Bhusal & Associates"
@@ -47,11 +47,11 @@
 		<h2 class="mb-4 text-3xl font-bold leading-tight text-center">Our Founder</h2>
 		<div class="flex flex-col items-center justify-center gap-8 md:flex-row">
 			<div class="max-w-lg">
-				<img src={RabinSpeaking} alt="Portrait of Rabin Bhusal, Founder & CEO" />
+				<img src={RabinSpeaking} alt="Portrait of Rabin Bhusal, Founder &  Proprietor" />
 			</div>
 			<div class="text-center md:text-left">
 				<h3 class="text-2xl font-bold">C.A. Rabin Bhusal</h3>
-				<p class="text-sm font-medium">Founder & CEO, Chartered Accountant</p>
+				<p class="text-sm font-medium">Founder & Proprietor, Chartered Accountant</p>
 				<p class="mt-4 text-lg text-justify">
 					Rabin Bhusal is a highly skilled Chartered Accountant with over four years of experience
 					in the finance and accounting sector. Currently serving as the Finance Manager at Anver

@@ -90,16 +90,16 @@
 							</svg>
 							<blockquote class="relative">
 								<p class="text-base text-lg tracking-tight">
-									R. Bhusal & Associates delivered exceptional financial services. Rabin Bhusal and
-									his team are not only highly skilled but also very responsive. Their
-									professionalism and dedication are truly remarkable.
+									आर. भुसाल एण्ड एसोसिएट्सले उत्कृष्ट वित्तीय सेवा प्रदान गर्छन्। रविन भुसाल र उनको
+									टीम न केवल अत्यधिक कुशल छन्, बरु तीव्र प्रतिक्रिया दिने पनि छन्। उनीहरूको पेशेवरता
+									र समर्पण साँच्चै प्रशंसनीय छ।
 								</p>
 							</blockquote>
 							<figcaption
 								class="relative flex items-center justify-between pt-6 mt-6 border-t border-accent"
 							>
 								<div>
-									<div class="text-base font-display">Ramesh Gurung</div>
+									<div class="text-base font-display">रमेश गुरुङ</div>
 								</div>
 							</figcaption>
 						</figure>

@@ -19,10 +19,10 @@
 				<img
 					src={RabinPortrait}
 					class="object-contain mx-auto h-44 w-44"
-					alt="Portrait of Rabin Bhusal, Founder & CEO"
+					alt="Portrait of Rabin Bhusal, Founder &  Proprietor"
 				/>
 				<h3 class="text-xl font-bold text-center">C.A. Rabin Bhusal</h3>
-				<p class="text-sm text-center">Founder & CEO</p>
+				<p class="text-sm text-center">Founder & Proprietor</p>
 				<p class="mt-4 text-justify">
 					With expertise spanning over 4 years in finance and accounting, Rabin's vision is to
 					transform the financial practices of businesses across Nepal.
@@ -31,7 +31,7 @@
 			<article class="p-6 bg-primary">
 				<img
 					src={JivanImage}
-					alt="Portrait of Rabin Bhusal, Founder & CEO"
+					alt="Portrait of Rabin Bhusal, Founder &  Proprietor"
 					class="object-cover mx-auto h-44 w-44"
 				/>
 				<h3 class="text-xl font-bold text-center">Jivan Parajuli</h3>
@@ -44,7 +44,7 @@
 			<article class="p-6 bg-primary">
 				<img
 					src={SushantImage}
-					alt="Portrait of Rabin Bhusal, Founder & CEO"
+					alt="Portrait of Rabin Bhusal, Founder &  Proprietor"
 					class="object-cover mx-auto h-44 w-44"
 				/>
 				<h3 class="text-xl font-bold text-center">C.A. Sushant Raut</h3>
@@ -58,7 +58,7 @@
 			<article class="p-6 bg-primary">
 				<img
 					src={JagritImage}
-					alt="Portrait of Rabin Bhusal, Founder & CEO"
+					alt="Portrait of Rabin Bhusal, Founder &  Proprietor"
 					class="object-contain mx-auto h-44 w-44"
 				/>
 				<h3 class="text-xl font-bold text-center">Er. Jagrit Parajuli</h3>
